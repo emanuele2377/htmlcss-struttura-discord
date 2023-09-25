@@ -1,0 +1,232 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #222222;
+	color: black;
+	font-family: sans-serif;
+}
+
+header {
+	background: rgb(9, 245, 245);
+	height: 100px;
+    display: flex;
+    align-items:center;
+    justify-content:space-around;
+	
+	
+}
+
+.logo > img {
+    background-color: orange;
+	width: 70px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.menu {
+    background-color: orange;
+	display: flex;
+    justify-content: space-between;
+
+}
+
+.menu-item {
+	padding: 0 15px;
+}
+
+.log {
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+}
+
+    
+
+
+.sfondo {
+	background: rgb(4, 14, 210);
+	width: 100%;
+	min-height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container {
+
+    background-color: pink;
+    width: 60%;
+    min-height: 250px;
+    margin: auto;
+    
+}
+
+.sfo{
+
+    background-color: white;
+    width: 100%;
+	min-height: 300px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.con {
+
+    background-color: rgb(19, 123, 227);
+    width: 70%;
+    min-height: 250px;
+    margin: auto;
+    margin-left: 250px;
+}
+
+.co {
+
+    background-color: pink;
+    width: 30%;
+    min-height: 250px;
+    margin: auto;
+    margin-right: 100px;
+}
+
+.sfon{
+
+    background-color: rgb(150, 150, 150);
+    width: 100%;
+	min-height: 300px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.cont {
+
+    background-color: pink;
+    width: 30%;
+    min-height: 250px;
+    margin: auto;
+    margin-left: 250px;
+}
+
+.cos {
+
+    background-color: rgb(19, 123, 227);
+    width: 70%;
+    min-height: 250px;
+    margin: auto;
+    margin-right: 100px;
+}
+
+
+.back{
+    
+    background-color:white;
+    width: 100%;
+	min-height: 300px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.sx {
+
+    background-color: rgb(19, 123, 227);
+    width: 80%;
+    min-height: 250px;
+    margin: auto;
+    margin-left: 250px;
+    
+}
+
+.dx {
+
+    background-color: pink;
+    width: 20%;
+    min-height: 250px;
+    margin: auto;
+    margin-right: 100px;
+    
+}
+
+.verde{
+    
+    background-color:rgb(150, 150, 150);
+    width: 100%;
+	min-height: 500px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.quadrato {
+
+    background-color: green;
+    width: 100%;
+    height: 400px;
+    margin: auto;
+    margin-left: 250px;
+    margin-right: 100px;
+    
+}
+
+.colonne{
+    
+    background-color:#222222;
+    width: 100%;
+	min-height: 500px;
+    display:flex;
+
+    
+}
+
+.riga{
+    
+    
+    background-color: rgb(155, 60, 60);
+    width: 30%;
+    min-height: 490px;
+    margin: auto;
+    margin-left: 250px;
+    margin-right:1px;
+    
+}
+
+.rigo{
+   
+    background-color:rgb(5, 127, 127);
+    width: 20%;
+    min-height: 490px;
+    margin: auto;
+    margin-right: 1px;       
+}
+
+.ultimo {
+    
+    background-color:rgb(5, 127, 127);
+    width: 20%;
+    min-height: 490px;
+    margin: auto;
+    margin-right: 100px;
+}
+
+.nero {
+
+    border: solid,white 3px;
+}
+
+.fine {
+    background-color: orange;
+    display: flex;
+    justify-content:flex-start;
+    
+}
+
+.bottone {
+    background-color: orange;
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom:20px;
+}
